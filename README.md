@@ -15,3 +15,18 @@ source youtube/bin/activate
 
 python comment_getter.py -q "league of legends" -l "tr"
 ```
+Script creates ```[youtube-video-id].json``` files for each video when you run the it.
+
+Json file contains:
+
+```
+{
+"cid": "Ugy5pL3yXcvvUeopJJN4AaABAg", 
+"text": "GARENN <3", 
+"lang": "unknown", 
+"time": "2 saat önce", 
+"author": "BerUmizm", 
+"votes": 0, 
+"photo": "https://yt3.ggpht.com/a/AATXAJyY99STu49rLBisO-RIrrpnNeNcSXI1unE8jiHTqw=s48-c-k-c0xffffffff-no-rj-mo"
+}
+```
