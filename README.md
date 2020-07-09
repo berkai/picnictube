@@ -13,6 +13,8 @@ python3 -m venv youtube
 
 source youtube/bin/activate
 
+pip3 install -r requirements.txt 
+
 python comment_getter.py -q "league of legends" -l "tr"
 ```
 Script creates ```[youtube-video-id].json``` files for each video when you run the it.
