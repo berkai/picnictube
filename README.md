@@ -27,7 +27,7 @@ Json file contains:
 "text": "GARENN <3", 
 "lang": "unknown", 
 "time": "2 saat önce", 
-"author": "BerUmizm", 
+"author": "Berkay Berkman", 
 "votes": 0, 
 "photo": "https://yt3.ggpht.com/a/AATXAJyY99STu49rLBisO-RIrrpnNeNcSXI1unE8jiHTqw=s48-c-k-c0xffffffff-no-rj-mo"
 }
